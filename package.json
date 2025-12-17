@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JasminDreasond/Tiny-Essentials-Legacy.git"
+    "url": "git+https://github.com/Tiny-Essentials/Tiny-Essentials-Legacy.git"
   },
   "keywords": [
     "@tinypudding/firebase-lib",
@@ -43,9 +43,9 @@
   "author": "Yasmin Seidel (Jasmin Dreasond)",
   "license": "LGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/JasminDreasond/Tiny-Essentials-Legacy/issues"
+    "url": "https://github.com/Tiny-Essentials/Tiny-Essentials-Legacy/issues"
   },
-  "homepage": "https://github.com/JasminDreasond/Tiny-Essentials-Legacy#readme",
+  "homepage": "https://github.com/Tiny-Essentials/Tiny-Essentials-Legacy#readme",
   "devDependencies": {
     "@babel/cli": "^7.27.0",
     "@babel/core": "^7.26.10",
