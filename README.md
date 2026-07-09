@@ -1,3 +1,13 @@
+<div align="center">
+<img src="./md-assets/tiny-essentials-legacy.jpg" alt="banner" />
+<p>
+    <a href="https://www.patreon.com/JasminDreasond"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg?logo=patreon" alt="Patreon" /></a>
+    <a href="https://ko-fi.com/jasmindreasond"><img src="https://img.shields.io/badge/donate-ko%20fi-29ABE0.svg?logo=ko-fi" alt="Ko-Fi" /></a>
+    <a href="https://chain.so/address/BTC/bc1qnk7upe44xrsll2tjhy5msg32zpnqxvyysyje2g"><img src="https://img.shields.io/badge/donate-bitcoin-F7931A.svg?logo=bitcoin" alt="Bitcoin" /></a>
+    <a href="https://chain.so/address/LTC/ltc1qchk520v4u8334n5dntmgeja55gc5g5rrkgpd4f"><img src="https://img.shields.io/badge/donate-litecoin-345D9D.svg?logo=litecoin" alt="Litecoin" /></a>
+</p>
+</div>
+
 # Legacy Codes Folder
 
 The **Legacy Codes** folder contains outdated code snippets that have been adapted to work with modern programming languages and environments. Despite their modernization, the original logic of all these codes has been preserved, regardless of whether the structure was well-organized or poorly structured.
